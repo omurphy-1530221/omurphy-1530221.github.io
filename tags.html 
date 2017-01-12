@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liv's Webpage</title
+    </head>
+    <body>
+        <h1> Olivia Murphy</h1
+        <h2> About Me:</h2>        
+        <p> I am a sophomore at the University of Washignton.</p> 
+        <p> I have one friend and her name is Erica Blume. </p>
+        <h2> My favorite sites:<h2>
+        <ul>
+            <li> Facebook</li>
+            <li> Pinterest</li>
+            <li> Snapchat</li>
+            <li> Instagram</li>
+            <li> Netflix</li></ul>
+        <h2> My Favorite Pictures:</h2>
+        <a href="https://scontent.xx.fbcdn.net/v/t1.0-9/14364621_10209357290123348_1065764123440117660_n.jpg?oh=92461bbc0916e82dc53cb6f4cf523976&oe=58E25CBB">
+            <img src="https://scontent.xx.fbcdn.net/v/t1.0-9/15078550_10208172114516025_8008723199381019702_n.jpg?oh=ab87e979eaa1243beb3552b11b6a6490&oe=58DAC3EF"title="Erica's Birthday"style="">
+        </a>
+        <img src="https://scontent.xx.fbcdn.net/v/t1.0-9/14717278_10209032622025160_2601162646364824450_n.jpg?oh=ac8841012f8de6f4905e76ba290a394b&oe=58DBFFAA">
+    </body>
+</html>
